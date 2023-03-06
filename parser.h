@@ -1,5 +1,4 @@
-/* Penn-Shell Parser
-   hanbangw, 21fa    */
+
 
 #pragma once
 
