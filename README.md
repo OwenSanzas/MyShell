@@ -40,7 +40,7 @@ Background check |     ✓
 
 
 ## Overview of work accomplished
-* Penn-shell can be run in the non-interactive mode successfully.
+* This shell can be run in the non-interactive mode successfully.
 * All commands that are not job control builtins commands are handled by pipe. The standard input/output will be redirected and combining redirection is also supported.
 * We manage each job in a JobNode struct and use a linked list struct JobList to store all background jobs. 
     ````
