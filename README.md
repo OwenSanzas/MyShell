@@ -2,7 +2,7 @@
 Author: Ze Sheng (Owen Sanazas)
 
 
-## Submitted Source Files
+## Source Files
 * myshell.c
 * shell-behaviour.c
 * shell-behaviour.h
